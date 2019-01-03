@@ -7,6 +7,6 @@ SmartTouchpad https://osxlatitude.com/forums/topic/1948-elan-focaltech-and-synap
 Android USB tethering driver for Mac OS X  
 https://github.com/jwise/HoRNDIS  
 https://www.joshuawise.com/horndis  
-how to use
+how to use  
 http://bbs.pcbeta.com/viewthread-1764224-1-1.html  
 https://www.waerfa.com/horndis  
