@@ -1,3 +1,12 @@
 Lilu https://github.com/acidanthera/Lilu  
 WhateverGreen https://github.com/acidanthera/WhateverGreen  
+
+
 SmartTouchpad https://osxlatitude.com/forums/topic/1948-elan-focaltech-and-synaptics-smart-touchpad-driver-mac-os-x/
+
+Android USB tethering driver for Mac OS X 
+https://github.com/jwise/HoRNDIS  
+https://www.joshuawise.com/horndis
+how to use
+http://bbs.pcbeta.com/viewthread-1764224-1-1.html  
+https://www.waerfa.com/horndis
