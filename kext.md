@@ -11,3 +11,5 @@ https://www.joshuawise.com/horndis
 how to use  
 http://bbs.pcbeta.com/viewthread-1764224-1-1.html  
 https://www.waerfa.com/horndis  
+
+https://github.com/the-darkvoid/XPS9360-macOS/blob/master/kexts/kexts.txt
