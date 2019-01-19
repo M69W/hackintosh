@@ -18,12 +18,6 @@ https://www.joshuawise.com/horndis  offical website
 how to use  
 https://www.waerfa.com/horndis  
 
-
-https://github.com/the-darkvoid/XPS9360-macOS/blob/master/kexts/kexts.txt
-
-
-
-
 ## some kexts
 [CFL files](https://drive.firewolf.science/public/CFLFB/) from [[FIX] Coffee Lake Intel UHD Graphics 630 on macOS Mojave: Kernel panic due to divide-by-zero](https://www.tonymacx86.com/threads/fix-coffee-lake-intel-uhd-graphics-630-on-macos-mojave-kernel-panic-due-to-divide-by-zero.261687/)
-
+https://github.com/the-darkvoid/XPS9360-macOS/blob/master/kexts/kexts.txt  
