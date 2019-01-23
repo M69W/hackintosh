@@ -13,6 +13,7 @@ https://osxlatitude.com/forums/topic/1948-elan-focaltech-and-synaptics-smart-tou
 
 ## AppleALC  
 https://github.com/acidanthera/AppleALC  
+https://github.com/acidanthera/AppleALC/blob/master/README_CN.md
 
 ## Android USB tethering driver for Mac OS X  
 
