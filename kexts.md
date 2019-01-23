@@ -11,6 +11,9 @@ https://github.com/acidanthera/WhateverGreen
 ## SmartTouchpad  
 https://osxlatitude.com/forums/topic/1948-elan-focaltech-and-synaptics-smart-touchpad-driver-mac-os-x/  
 
+## AppleALC  
+https://github.com/acidanthera/AppleALC  
+
 ## Android USB tethering driver for Mac OS X  
 
 https://github.com/jwise/HoRNDIS  
