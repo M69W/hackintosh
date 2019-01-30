@@ -14,6 +14,10 @@ https://bitbucket.org/RehabMan/os-x-fakesmc-kozlek/downloads/
 ## CPUFriend  
 https://github.com/acidanthera/CPUFriend/releases  
 
+## OS-X-ACPI-Battery-Driver  
+https://github.com/RehabMan/OS-X-ACPI-Battery-Driver
+https://bitbucket.org/RehabMan/os-x-acpi-battery-driver/downloads/  
+
 ## HibernationFixup  
 https://github.com/acidanthera/HibernationFixup/releases  
 
