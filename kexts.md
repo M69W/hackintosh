@@ -11,7 +11,10 @@ https://github.com/acidanthera/WhateverGreen
 https://bitbucket.org/RehabMan/os-x-fakesmc-kozlek/downloads/  
 
 ## CPUFriend  
-https://github.com/acidanthera/CPUFriend/releases
+https://github.com/acidanthera/CPUFriend/releases  
+
+## HibernationFixup  
+https://github.com/acidanthera/HibernationFixup/releases  
 
 
 ## SmartTouchpad  
