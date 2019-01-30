@@ -8,6 +8,7 @@ https://github.com/acidanthera/Lilu
 https://github.com/acidanthera/WhateverGreen  
 
 ## FakeSMC  
+https://github.com/RehabMan/OS-X-FakeSMC-kozlek
 https://bitbucket.org/RehabMan/os-x-fakesmc-kozlek/downloads/  
 
 ## CPUFriend  
