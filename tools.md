@@ -15,6 +15,27 @@ http://cvad-mac.narod.ru/index/0-4
 http://cvad-mac.narod.ru/files/Kext_Utility.app.v2.6.6.zip 
 
 
+## IOJones  
+https://github.com/acidanthera/IOJones/releases  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## some tools  
 http://cvad-mac.narod.ru/   (Kext Utility BootDiskUtility.exe  mCoreTest64 Kext Info Utility)
 
