@@ -14,6 +14,9 @@ https://bitbucket.org/RehabMan/os-x-fakesmc-kozlek/downloads/
 ## CPUFriend  
 https://github.com/acidanthera/CPUFriend/releases  
 
+## AppleIntelInfo  
+https://github.com/Piker-Alpha/AppleIntelInfo  
+
 ## OS-X-ACPI-Battery-Driver  
 https://github.com/RehabMan/OS-X-ACPI-Battery-Driver
 https://bitbucket.org/RehabMan/os-x-acpi-battery-driver/downloads/  
