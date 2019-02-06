@@ -7,8 +7,8 @@
 即非苹果官网直接下载的原镜像，而是个人或第三方二次从苹果官网下载的原镜像二次制作的带有 Clover 引导的镜像。
 
 例如：
-[小兵博客的 Mojave (10.14.2 with clover)镜像](https://blog.daliansky.net/macOS-Mojave-10.14.2-18C54-official-version-with-Clover-4792-original-image.html) && [非百度下载地址支持http](https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/)  
-[远景论坛 macOS Mojave 版 版主的Mojave (10.14.2 with clover)镜像](http://bbs.pcbeta.com/viewthread-1800347-1-1.html)
+[小兵博客的 Mojave (10.14.3 with clover)镜像](https://blog.daliansky.net/macOS-Mojave-10.14.3-18D42-official-version-with-Clover-4859-original-image.html) && [非百度下载地址支持http](https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/)  
+[远景论坛 macOS Mojave 版 版主的Mojave (10.14.3 with clover)镜像](http://bbs.pcbeta.com/viewthread-1804325-1-1.html)
 
 一般来说，非特别情况下，推荐使用 macOS 最新版镜像；
 也有某个场合下使用更早的版本 例如 独显在10.14 下貌似还没支持，有退回上个版本(10.13)的。
