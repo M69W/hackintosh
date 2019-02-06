@@ -42,3 +42,8 @@ https://www.waerfa.com/horndis
 ## some kexts
 [CFL files](https://drive.firewolf.science/public/CFLFB/) from [[FIX] Coffee Lake Intel UHD Graphics 630 on macOS Mojave: Kernel panic due to divide-by-zero](https://www.tonymacx86.com/threads/fix-coffee-lake-intel-uhd-graphics-630-on-macos-mojave-kernel-panic-due-to-divide-by-zero.261687/)
 https://github.com/the-darkvoid/XPS9360-macOS/blob/master/kexts/kexts.txt  
+
+
+[[GUIDE] Installing 3rd Party Kexts - El Capitan, Sierra, High Sierra, Mojave +](https://www.tonymacx86.com/threads/guide-installing-3rd-party-kexts-el-capitan-sierra-high-sierra-mojave.268964/)  
+
+[An iDiot's Guide To Lilu and its Plug-ins](https://www.tonymacx86.com/threads/an-idiots-guide-to-lilu-and-its-plug-ins.260063/)  
