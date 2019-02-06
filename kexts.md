@@ -39,6 +39,9 @@ https://www.joshuawise.com/horndis  offical website
 how to use  
 https://www.waerfa.com/horndis  
 
+## 远景版主版  必备插件(可能比GitHub 上的 releases 版本还新)
+[Lilu.kext扩展库本体1.3.3以及AppleALC 1.3.5等必备插件更新 支持10.14+](http://bbs.pcbeta.com/viewthread-1765509-1-1.html)  
+
 ## some kexts
 [CFL files](https://drive.firewolf.science/public/CFLFB/) from [[FIX] Coffee Lake Intel UHD Graphics 630 on macOS Mojave: Kernel panic due to divide-by-zero](https://www.tonymacx86.com/threads/fix-coffee-lake-intel-uhd-graphics-630-on-macos-mojave-kernel-panic-due-to-divide-by-zero.261687/)
 https://github.com/the-darkvoid/XPS9360-macOS/blob/master/kexts/kexts.txt  
