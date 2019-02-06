@@ -1,3 +1,7 @@
+https://github.com/acidanthera/Lilu/blob/master/KnownPlugins.md
+
+
+
 ## kextupdater
 https://bitbucket.org/profdrluigi/kextupdater/downloads/  
 
