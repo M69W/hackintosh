@@ -24,6 +24,9 @@ https://bitbucket.org/RehabMan/os-x-acpi-battery-driver/downloads/
 ## HibernationFixup  
 https://github.com/acidanthera/HibernationFixup/releases  
 
+## NoTouchID  
+https://github.com/al3xtjames/NoTouchID/releases  
+
 
 ## SmartTouchpad  
 https://osxlatitude.com/forums/topic/1948-elan-focaltech-and-synaptics-smart-touchpad-driver-mac-os-x/  
