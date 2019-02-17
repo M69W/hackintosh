@@ -85,7 +85,7 @@ https://www.insanelymac.com/
 http://bbs.pcbeta.com/  
 https://github.com/  
 https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md  
-https://clover-wiki.zetam.org/zh-CN/zh-CN.home [Clover Wiki](http://clover-wiki.zetam.org/Home)
+https://clover-wiki.zetam.org/zh-CN/zh-CN.home [Clover Wiki](http://clover-wiki.zetam.org/Home)  
 http://www.diskgenius.cn/
 
 
