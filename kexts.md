@@ -12,7 +12,7 @@ https://github.com/acidanthera/Lilu/releases
 https://github.com/acidanthera/WhateverGreen/releases     
 
 ## FakeSMC  
-https://github.com/RehabMan/OS-X-FakeSMC-kozlek
+https://github.com/RehabMan/OS-X-FakeSMC-kozlek  
 https://bitbucket.org/RehabMan/os-x-fakesmc-kozlek/downloads/  
 
 ## CPUFriend  
@@ -22,7 +22,7 @@ https://github.com/acidanthera/CPUFriend/releases
 https://github.com/Piker-Alpha/AppleIntelInfo/releases     
 
 ## OS-X-ACPI-Battery-Driver  
-https://github.com/RehabMan/OS-X-ACPI-Battery-Driver
+https://github.com/RehabMan/OS-X-ACPI-Battery-Driver  
 https://bitbucket.org/RehabMan/os-x-acpi-battery-driver/downloads/  
 
 ## HibernationFixup  
