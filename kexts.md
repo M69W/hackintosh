@@ -15,6 +15,9 @@ https://github.com/acidanthera/WhateverGreen/releases
 https://github.com/RehabMan/OS-X-FakeSMC-kozlek  
 https://bitbucket.org/RehabMan/os-x-fakesmc-kozlek/downloads/  
 
+## VirtualSMC  
+https://github.com/acidanthera/VirtualSMC/releases
+
 ## CPUFriend  
 https://github.com/acidanthera/CPUFriend/releases  
 
