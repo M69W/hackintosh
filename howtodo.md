@@ -9,7 +9,7 @@ http://bbs.pcbeta.com/viewthread-1802902-1-1.html
 如何创建可引导的 macOS 安装器  
 https://support.apple.com/zh-cn/HT201372  
 
-调整 macOS CPU性能
+调整 macOS CPU性能  
 https://github.com/daliansky/XiaoMi-Pro/blob/master/one-key-cpufriend/README_CN.md  
 
 
