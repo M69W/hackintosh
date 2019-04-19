@@ -11,6 +11,8 @@ https://support.apple.com/zh-cn/HT201372
 
 调整 macOS CPU性能  
 https://github.com/daliansky/XiaoMi-Pro/blob/master/one-key-cpufriend/README_CN.md  
+调整 macOS CPU性能  
+https://github.com/stevezhengshiqi/one-key-cpufriend  
 
 
 [[GUIDE] Installing 3rd Party Kexts - El Capitan, Sierra, High Sierra, Mojave +](https://www.tonymacx86.com/threads/guide-installing-3rd-party-kexts-el-capitan-sierra-high-sierra-mojave.268964/)  
