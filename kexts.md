@@ -42,6 +42,9 @@ https://osxlatitude.com/forums/topic/1948-elan-focaltech-and-synaptics-smart-tou
 https://github.com/acidanthera/AppleALC/releases  
 https://github.com/acidanthera/AppleALC/blob/master/README_CN.md
 
+## OS X driver for Intel onboard LAN  
+https://github.com/RehabMan/OS-X-Intel-Network  
+
 ## Android USB tethering driver for Mac OS X  
 
 https://github.com/jwise/HoRNDIS/releases      
