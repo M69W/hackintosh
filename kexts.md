@@ -44,6 +44,7 @@ https://github.com/acidanthera/AppleALC/blob/master/README_CN.md
 
 ## OS X driver for Intel onboard LAN  
 https://github.com/RehabMan/OS-X-Intel-Network  
+https://github.com/acidanthera/IntelMausi/releases  
 
 ## Android USB tethering driver for Mac OS X  
 
