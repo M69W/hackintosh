@@ -18,6 +18,9 @@ https://bitbucket.org/RehabMan/os-x-fakesmc-kozlek/downloads/
 ## VirtualSMC  
 https://github.com/acidanthera/VirtualSMC/releases
 
+替换FakeSMC:
+ACPIBatteryManager.kext
+
 ## CPUFriend  
 https://github.com/acidanthera/CPUFriend/releases  
 
