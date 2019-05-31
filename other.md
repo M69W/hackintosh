@@ -9,5 +9,5 @@ sudo mkdir /var/vm/sleepimage
 sudo pmset dwlinterval 5  
 
 
-DW1830(DW1560)?  来自[此处](https://github.com/jardenliu/XPS15-9560-Mojave#2019-05-07)  
+DW1830(DW1560)?  来自[此处](https://github.com/jardenliu/XPS15-9560-Mojave#2019-05-07)，[驱动详情](https://bitbucket.org/RehabMan/os-x-brcmpatchram/src/master/)  
 添加了博通蓝牙参数bpr_probedelay=100 bpr_initialdelay=300 bpr_postresetdelay=300.  
