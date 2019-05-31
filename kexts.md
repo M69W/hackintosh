@@ -60,6 +60,18 @@ How to get the kexts
 `sudo kextload /Library/Extensions/HoRNDIS.kext`  
 can find HoRNDIS.kext in `/Library/Extensions/HoRNDIS.kext`  
 
+## SD card reader, macOS open-source project from [here](https://github.com/the-darkvoid/XPS9360-macOS)  
+https://github.com/sinetek/Sinetek-rtsx   
+
+## Finger print scanner  
+Validity Inc. Finger print scanner, device ID [138a:0091], [linux open-source project](https://github.com/hmaarrfk/Validity91)  
+
+## DW1560  
+Dell DW1560 Wireless (eBay)  
+Wi-Fi device ID [14e4:43b1], shows as Apple Airport Extreme due to FakePCIID_Broadcom_WiFi.kext  
+Bluetooth device ID [0a5c:216f], chipset 20702A3 with firmware v14 c5882 using BrcmPatchRAM2.kext  
+
+
 
 ## 远景版主版  必备插件(可能比GitHub 上的 releases 版本还新)
 [Lilu.kext扩展库本体1.3.3以及AppleALC 1.3.5等必备插件更新 支持10.14+](http://bbs.pcbeta.com/viewthread-1765509-1-1.html)  
