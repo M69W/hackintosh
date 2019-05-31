@@ -61,7 +61,8 @@ How to get the kexts
 can find HoRNDIS.kext in `/Library/Extensions/HoRNDIS.kext`  
 
 ## SD card reader, macOS open-source project from [here](https://github.com/the-darkvoid/XPS9360-macOS)  
-https://github.com/sinetek/Sinetek-rtsx   
+https://github.com/sinetek/Sinetek-rtsx 
+https://github.com/syscl/Sinetek-rtsx  
 
 ## Finger print scanner  
 Validity Inc. Finger print scanner, device ID [138a:0091], [linux open-source project](https://github.com/hmaarrfk/Validity91)  
