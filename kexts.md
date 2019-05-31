@@ -1,5 +1,5 @@
 https://github.com/acidanthera/Lilu/blob/master/KnownPlugins.md
-
+https://github.com/the-darkvoid/XPS9360-macOS/blob/master/kexts/kexts.txt
 
 
 ## kextupdater
