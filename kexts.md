@@ -34,6 +34,12 @@ https://bitbucket.org/RehabMan/os-x-acpi-battery-driver/downloads/
 ## HibernationFixup  
 https://github.com/acidanthera/HibernationFixup/releases  
 
+## AirportBrcmFixup  
+https://github.com/acidanthera/AirportBrcmFixup/releases  
+
+## BT4LEContiunityFixup   
+https://github.com/acidanthera/BT4LEContiunityFixup/releases  
+
 ## NoTouchID  
 https://github.com/al3xtjames/NoTouchID/releases  
 
