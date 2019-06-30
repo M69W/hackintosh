@@ -78,6 +78,10 @@ Dell DW1560 Wireless (eBay)
 Wi-Fi device ID [14e4:43b1], shows as Apple Airport Extreme due to FakePCIID_Broadcom_WiFi.kext  
 Bluetooth device ID [0a5c:216f], chipset 20702A3 with firmware v14 c5882 using BrcmPatchRAM2.kext  
 
+##  自行编译  
+http://bbs.pcbeta.com/viewthread-1793993-1-1.html  
+http://bbs.pcbeta.com/viewthread-1791328-1-1.html
+
 
 
 ## 远景版主版  必备插件(可能比GitHub 上的 releases 版本还新)
