@@ -75,6 +75,8 @@ Validity Inc. Finger print scanner, device ID [138a:0091], [linux open-source pr
 
 ## DW1560  
 Dell DW1560 Wireless (eBay)  
+https://github.com/headkaze/OS-X-BrcmPatchRAM/releases  [帖子](http://bbs.pcbeta.com/viewthread-1821563-1-1.html)  
+放到efi/clover/kexts/others  
 Wi-Fi device ID [14e4:43b1], shows as Apple Airport Extreme due to FakePCIID_Broadcom_WiFi.kext  
 Bluetooth device ID [0a5c:216f], chipset 20702A3 with firmware v14 c5882 using BrcmPatchRAM2.kext  
 
