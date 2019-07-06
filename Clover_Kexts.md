@@ -35,6 +35,8 @@ ACPIBatteryManager.kext
 
 ## CPUFriend  
 https://github.com/acidanthera/CPUFriend/releases  
+调整 macOS CPU性能  
+https://github.com/stevezhengshiqi/one-key-cpufriend  
 
 ## AppleIntelInfo  
 https://github.com/Piker-Alpha/AppleIntelInfo/releases     
