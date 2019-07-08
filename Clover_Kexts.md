@@ -94,6 +94,20 @@ https://github.com/headkaze/OS-X-BrcmPatchRAM/releases  [帖子](http://bbs.pcbe
 Wi-Fi device ID [14e4:43b1], shows as Apple Airport Extreme due to FakePCIID_Broadcom_WiFi.kext  
 Bluetooth device ID [0a5c:216f], chipset 20702A3 with firmware v14 c5882 using BrcmPatchRAM2.kext  
 
+or [something](https://blog.daliansky.net/Broadcom-BCM94352z-DW1560-drive-new-posture.html  
+```
+#!/bin/sh
+sudo chmod -Rf 755 /S*/L*/E*
+sudo chown -Rf 0:0 /S*/L*/E*
+sudo chmod -Rf 755 /L*/E*
+sudo chown -Rf 0:0 /L*/E*
+sudo rm -Rf /S*/L*/PrelinkedKernels/*
+sudo rm -Rf /S*/L*/Caches/com.apple.kext.caches/*
+sudo touch -f /S*/L*/E*
+sudo touch -f /L*/E*
+sudo kextcache -Boot -U /
+```
+
 ##  自行编译  
 http://bbs.pcbeta.com/viewthread-1793993-1-1.html  
 http://bbs.pcbeta.com/viewthread-1791328-1-1.html
