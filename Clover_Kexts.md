@@ -111,6 +111,7 @@ sudo kextcache -Boot -U /
 ##  自行编译  
 http://bbs.pcbeta.com/viewthread-1793993-1-1.html  
 http://bbs.pcbeta.com/viewthread-1791328-1-1.html
+https://github.com/corpnewt/Lilu-and-Friends
 
 
 
