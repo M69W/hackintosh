@@ -8,3 +8,4 @@ https://github.com/shenlinsl/DELL-XPS-15-9570-8950-4K-macOS-Mojave
 
 ## Other EFI
 https://github.com/daliansky/Hackintosh  
+http://dosdude1.com/catalina/  
