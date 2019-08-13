@@ -95,7 +95,7 @@ Dell DW1560 Wireless (eBay)
 https://github.com/headkaze/OS-X-BrcmPatchRAM/releases  [帖子](http://bbs.pcbeta.com/viewthread-1821563-1-1.html)  
 放到efi/clover/kexts/others  
 Wi-Fi device ID [14e4:43b1], shows as Apple Airport Extreme due to FakePCIID_Broadcom_WiFi.kext  
-Bluetooth device ID [0a5c:216f], chipset 20702A3 with firmware v14 c5882 using BrcmPatchRAM2.kext  
+Bluetooth device ID [0a5c:216f], chipset 20702A3 with firmware v14 c5882 using BrcmPatchRAM2.kext 
 
 or [something](https://blog.daliansky.net/Broadcom-BCM94352z-DW1560-drive-new-posture.html  
 ```
@@ -110,6 +110,20 @@ sudo touch -f /S*/L*/E*
 sudo touch -f /L*/E*
 sudo kextcache -Boot -U /
 ```
+
+## DW1820A  
+Dell DW1820A Wireless 
+[xps-13-9350-laptop官网驱动](https://www.dell.com/support/home/cn/zh/cnbsd1/product-support/product/xps-13-9350-laptop/drivers)  
+[DW1820A/BCM94350ZAE/BCM94356ZEPA50DX插入的正确姿势](https://blog.daliansky.net/DW1820A_BCM94350ZAE-driver-inserts-the-correct-posture.html)  
+https://wikidevi.com/wiki/Dell_Wireless_1820A_(DW1820A)  
+https://osxlatitude.com/forums/topic/11322-broadcom-bcm4350-cards-under-high-sierramojave/  
+
+放到efi/clover/kexts/others  
+
+
+
+
+
 
 ##  自行编译  
 http://bbs.pcbeta.com/viewthread-1793993-1-1.html  
