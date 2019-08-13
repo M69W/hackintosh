@@ -123,6 +123,12 @@ https://wikidevi.com/wiki/Dell_Wireless_1820A_(DW1820A)
 
 https://osxlatitude.com/forums/topic/11322-broadcom-bcm4350-cards-under-high-sierramojave/  
 
+https://osxlatitude.com/forums/topic/11540-dw1820a-for-7490-help/page/5/?tab=comments#comment-91833  
+
+https://www.dell.com/support/home/us/en/04/drivers/driversdetails?driverid=7xrrv  
+
+https://osxlatitude.com/forums/topic/11540-dw1820a-for-7490-help/page/10/?tab=comments#comment-92833  
+
 放到efi/clover/kexts/others  
 
 
