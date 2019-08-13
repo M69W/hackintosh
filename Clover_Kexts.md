@@ -114,8 +114,13 @@ sudo kextcache -Boot -U /
 ## DW1820A  
 Dell DW1820A Wireless 
 [xps-13-9350-laptop官网驱动](https://www.dell.com/support/home/cn/zh/cnbsd1/product-support/product/xps-13-9350-laptop/drivers)  
+
+[DW1820A安装windows驱动教程（针对戴尔机型）](https://www.jianshu.com/p/6c6c5bf0dc54)  
+
 [DW1820A/BCM94350ZAE/BCM94356ZEPA50DX插入的正确姿势](https://blog.daliansky.net/DW1820A_BCM94350ZAE-driver-inserts-the-correct-posture.html)  
+
 https://wikidevi.com/wiki/Dell_Wireless_1820A_(DW1820A)  
+
 https://osxlatitude.com/forums/topic/11322-broadcom-bcm4350-cards-under-high-sierramojave/  
 
 放到efi/clover/kexts/others  
