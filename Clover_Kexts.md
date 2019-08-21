@@ -115,7 +115,10 @@ sudo kextcache -Boot -U /
 ```
 
 ## DW1820A  
-Dell DW1820A Wireless 
+Dell DW1820A Wireless  
+https://github.com/LuletterSoul/Dell-XPS-15-9570-macOS-Mojave/issues/54   
+[DW1820A/BCM94350ZAE/BCM94356ZEPA50DX插入的正确姿势](https://blog.daliansky.net/DW1820A_BCM94350ZAE-driver-inserts-the-correct-posture.html)   
+
 [xps-13-9350-laptop官网驱动](https://www.dell.com/support/home/cn/zh/cnbsd1/product-support/product/xps-13-9350-laptop/drivers)  
 
 [DW1820A安装windows驱动教程（针对戴尔机型）](https://www.jianshu.com/p/6c6c5bf0dc54)  
