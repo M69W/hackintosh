@@ -3,6 +3,10 @@ https://github.com/corpnewt/MountEFI
 https://github.com/headkaze/Hackintool  
 
 
+FAQ.IntelHD.cn.md英特尔® 核芯显卡 常见问答
+https://github.com/acidanthera/WhateverGreen/blob/master/Manual/FAQ.IntelHD.cn.md#%E4%BD%BF%E7%94%A8-weg-%E8%87%AA%E5%AE%9A%E4%B9%89-fb-%E5%92%8C-%E7%AB%AF%E5%8F%A3-%E8%A1%A5%E4%B8%81
+
+
 https://github.com/RehabMan/OS-X-Clover-Laptop-Config  
 
 如何定制自己的黑苹果（非 Windows 镜像方式）  
