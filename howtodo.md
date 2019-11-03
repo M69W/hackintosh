@@ -1,3 +1,8 @@
+挂载： 
+https://github.com/corpnewt/MountEFI  
+https://github.com/headkaze/Hackintool  
+
+
 https://github.com/RehabMan/OS-X-Clover-Laptop-Config  
 
 如何定制自己的黑苹果（非 Windows 镜像方式）  
