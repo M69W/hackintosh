@@ -1,3 +1,5 @@
+https://github.com/acidanthera/bugtracker/issues  
+
 https://github.com/enkeyi/NOTE/issues/28  
 
 
