@@ -16,3 +16,7 @@ https://github.com/stevezhengshiqi/one-key-cpufriend
 
 
 [[GUIDE] Installing 3rd Party Kexts - El Capitan, Sierra, High Sierra, Mojave +](https://www.tonymacx86.com/threads/guide-installing-3rd-party-kexts-el-capitan-sierra-high-sierra-mojave.268964/)  
+
+
+macOS Catalina 10.15安装中常见的问题及解决方法  
+https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Catalina-10.15-installation.html  
