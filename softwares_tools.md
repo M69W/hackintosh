@@ -5,6 +5,10 @@
 ## videoproc  
 https://www.videoproc.com/download/videoproc.dmg  
 
+balena-io/etcher
+https://www.balena.io/etcher/  
+https://github.com/balena-io/etcher/releases  
+
 
 Buy on taobao.com  
 https://digitalychee.taobao.com/  
