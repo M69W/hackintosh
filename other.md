@@ -16,3 +16,8 @@ DW1830(DW1560)?  来自[此处](https://github.com/jardenliu/XPS15-9560-Mojave#2
 
 DW1560(BCM94352z)  
 DW1830（BCM943602baed）  
+
+
+如果加了驱动却不生效：终端输入  
+`kextstat | grep -v com.apple`  
+查看已加载驱动  
