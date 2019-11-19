@@ -8,6 +8,8 @@ https://blog.daliansky.net/OpenCore-BootLoader.html
 一键编译OpenCore引导（OC引导）脚本：  
 http://bbs.pcbeta.com/viewthread-1814957-1-1.html  
 
+https://bbs.ccxkgzs.com/
+
 
 oc的优势是什么 求大佬普及  
 
