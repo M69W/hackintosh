@@ -6,6 +6,9 @@ https://github.com/daliansky/P-little
 stable release  
 https://sourceforge.net/projects/cloverefiboot/files/Installer/  
 
+Download Clover Configurator  
+https://mackie100projects.altervista.org/download-clover-configurator/  
+
 unofficial(last issue)  
 https://github.com/Dids/clover-builder/releases  
 
