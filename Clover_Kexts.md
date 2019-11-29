@@ -9,6 +9,9 @@ https://sourceforge.net/projects/cloverefiboot/files/Installer/
 Download Clover Configurator  
 https://mackie100projects.altervista.org/download-clover-configurator/  
 
+Cloud Clover Editor  
+https://cloudclovereditor.altervista.org/cce/index.php  
+
 unofficial(last issue)  
 https://github.com/Dids/clover-builder/releases  
 
