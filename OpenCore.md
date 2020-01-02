@@ -3,6 +3,10 @@ https://github.com/acidanthera/OpenCorePkg
 精解OpenCore
 https://blog.daliansky.net/OpenCore-BootLoader.html  
 
+xjn‘s Blog – xjn 大佬的博客, 对台式机非常友好的教程, 内存管理写的非常详细
+https://blog.xjn819.com/?p=543
+
+
 中文开发文档：http://bbs.pcbeta.com/viewthread-1815423-1-1.html  
 
 一键编译OpenCore引导（OC引导）脚本：  
