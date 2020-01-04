@@ -1,4 +1,5 @@
 https://github.com/acidanthera/OpenCorePkg  
+MOD：https://github.com/n-d-k/OpenCorePkg
 
 ## 教程  
 
