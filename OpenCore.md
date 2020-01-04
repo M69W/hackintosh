@@ -14,6 +14,9 @@ http://bbs.pcbeta.com/viewthread-1829444-1-1.html
 一键编译OpenCore引导（OC引导）脚本：  
 http://bbs.pcbeta.com/viewthread-1814957-1-1.html  
 
+OpenCore引导触摸板驱动总结  
+http://bbs.pcbeta.com/viewthread-1839143-1-1.html  
+
 https://bbs.ccxkgzs.com/
 
 
