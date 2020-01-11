@@ -21,3 +21,8 @@ DW1830（BCM943602baed）
 如果加了驱动却不生效：终端输入  
 `kextstat | grep -v com.apple`  
 查看已加载驱动  
+
+
+最简单的挂载EFI分区方案
+https://download.bugprogrammer.me/2019/12/03/mountEFI.html
+
