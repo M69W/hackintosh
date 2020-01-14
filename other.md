@@ -26,3 +26,16 @@ DW1830（BCM943602baed）
 最简单的挂载EFI分区方案
 https://download.bugprogrammer.me/2019/12/03/mountEFI.html
 
+
+由于macOS 10.15 锁住了S/L/E的修改权限，因此在修改kext前要使用终端先解锁S/L/E权限
+
+打开终端依次输入
+
+sudo su
+复制代码
+sudo mount -uw /
+复制代码
+
+killall Finder
+复制代码
+
