@@ -1,3 +1,8 @@
+国光的macOS配置优化记录
+https://www.sqlsec.com/2019/12/macos.html
+
+
+
 挂载： 
 https://github.com/corpnewt/MountEFI  
 https://github.com/headkaze/Hackintool  
