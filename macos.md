@@ -10,5 +10,14 @@ https://github.com/notpeter/apple-installer-checksums
 macOS OS with EFI  
 https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/  
 
+
+Catalina 降级回 Mojave 系统  
+https://www.bilibili.com/video/av82699222  
+
+
+如何创建可引导的 macOS 安装器  
+https://support.apple.com/zh-cn/HT201372  
+
+
 黑苹果常用命令整理-持续更新  
 https://blog.fangf.cc/2019/10/14/code/  
