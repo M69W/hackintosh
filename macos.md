@@ -1,4 +1,10 @@
-[macOS OS](https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/)  
+macOS Catalina  
+https://apps.apple.com/cn/app/macos-catalina/id1466841314?l=en-us&mt=12  
+https://github.com/notpeter/apple-installer-checksums  
+
+
+macOS OS  
+https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/  
 
 
 黑苹果常用命令整理-持续更新  
