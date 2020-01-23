@@ -1,9 +1,10 @@
 macOS Catalina  
 https://apps.apple.com/cn/app/macos-catalina/id1466841314?l=en-us&mt=12  
-https://github.com/notpeter/apple-installer-checksums  
 
 macOS Mojave  
 https://apps.apple.com/us/app/macos-mojave/id1398502828?mt=12  
+
+https://github.com/notpeter/apple-installer-checksums  
 
 
 macOS OS with EFI  
