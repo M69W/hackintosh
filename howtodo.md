@@ -34,3 +34,11 @@ https://github.com/stevezhengshiqi/one-key-cpufriend
 
 macOS Catalina 10.15安装中常见的问题及解决方法  
 https://blog.daliansky.net/Common-problems-and-solutions-in-macOS-Catalina-10.15-installation.html  
+
+
+macos10.15解锁S/L/E权限方法  
+打开终端依次输入  
+`sudo su`  
+`sudo mount -uw /`  
+`killall Finder`  
+ 
