@@ -27,6 +27,17 @@ http://bbs.pcbeta.com/viewthread-1839143-1-1.html
 https://bbs.ccxkgzs.com/
 
 
+四代处理器OC引导讨论专题贴  
+http://bbs.pcbeta.com/viewthread-1838605-1-1.html  
+
+关于OpenCore引导双系统的一些总结和讨论  
+http://bbs.pcbeta.com/viewthread-1830968-1-1.html  
+
+
+【持续更新】OpenCore0.5.5分支MOD版+OCC1.13.2.0中文精解完善版配置编辑器  
+http://bbs.pcbeta.com/viewthread-1838814-1-1.html  
+
+
 oc的优势是什么 求大佬普及  
 
 OpenCore 启动黑苹果 (尤其是 macOS 10.15) 会比 Clover 快不少  
