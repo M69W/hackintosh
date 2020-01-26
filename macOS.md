@@ -32,6 +32,7 @@ https://support.apple.com/zh-cn/HT201372
 https://blog.fangf.cc/2019/10/14/code/  
 
 
-参考：El Capitan 带引导安装介质下载和制作教程
-http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1640907&page=1#pid44904653
+参考：El Capitan 带引导安装介质下载和制作教程  
+http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1640907&page=1#pid44904653  
+
 `sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallmedia --volume /Volumes/macOS-15.2 --applicationpath /Applications/Install\ macOS\ Mojave.app --nointeraction`
