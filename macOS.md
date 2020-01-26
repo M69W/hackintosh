@@ -42,3 +42,6 @@ http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1640907&page=1#pid44904653
 #### macOS Catalina
 
 `sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/macOS\ Catalina --applicationpath /Applications/Install\ macOS\ Catalina.app  --nointeraction`
+
+
+制作工具：[etcher](https://www.balena.io/etcher/)  
