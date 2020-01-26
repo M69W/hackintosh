@@ -34,6 +34,9 @@ https://blog.fangf.cc/2019/10/14/code/
 
 参考：El Capitan 带引导安装介质下载和制作教程  
 http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1640907&page=1#pid44904653  
+或  
+一个命令制作 OS X 原版安装U盘  
+http://www.haaker.cn/system/8268.html  
 
 #### macOS Mojave
 
