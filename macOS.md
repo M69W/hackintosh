@@ -45,3 +45,5 @@ http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1640907&page=1#pid44904653
 
 
 制作工具：[etcher](https://www.balena.io/etcher/)  
+Etcher broken on macOS Catalina  
+https://github.com/balena-io/etcher/issues/2833#issuecomment-511152047
