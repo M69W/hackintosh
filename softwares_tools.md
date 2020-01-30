@@ -22,6 +22,9 @@ https://mackie100projects.altervista.org/download-clover-configurator/
 https://www.insanelymac.com/forum/topic/335018-hackintool-v174/  
 https://blog.daliansky.net/Intel-FB-Patcher-tutorial-and-insertion-pose.html  
 
+## Intel® Power Gadget  
+https://software.intel.com/en-us/articles/intel-power-gadget  
+
 ## MaciASL  
 https://github.com/RehabMan/OS-X-MaciASL-patchmatic  
 https://github.com/acidanthera/MaciASL  
