@@ -42,3 +42,4 @@ macos10.15解锁S/L/E权限方法
 `sudo mount -uw /`  
 `killall Finder`  
  
+`kextstat | grep -v "com.apple" | awk '{print $6,$7}' | column -t`
