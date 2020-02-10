@@ -99,6 +99,10 @@ https://github.com/syscl/Sinetek-rtsx
 ## Finger print scanner  
 Validity Inc. Finger print scanner, device ID [138a:0091], [linux open-source project](https://github.com/hmaarrfk/Validity91)  
 
+
+https://github.com/chris1111/Wireless-USB-Adapter-Clover
+
+
 ## Intel蓝牙固件上传驱动  
 http://bbs.pcbeta.com/viewthread-1838959-1-1.html  
 https://github.com/zxystd/IntelBluetoothFirmware  
