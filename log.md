@@ -5,3 +5,5 @@
 
 显示除了苹果之外的驱动加载：`kextstat | grep -v "com.apple"`  
 查看加载的非官方驱动： `kextstat | grep -v "com.apple" | grep -v "Energy"`    
+
+`kextstat | grep -v "com.apple" | awk '{print $6,$7}' | column -t`
