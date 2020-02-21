@@ -14,6 +14,7 @@ http://bbs.pcbeta.com/viewthread-1829444-1-1.html
 
 中文开发文档  
 http://bbs.pcbeta.com/viewthread-1815423-1-1.html  
+https://oc.skk.moe/  
 
 OpenCore 介绍 黑苹果OC引导下载简单讲解使用说明  
 https://www.loadream.net/bootloader/oc/  
