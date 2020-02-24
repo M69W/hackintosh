@@ -43,3 +43,9 @@ macos10.15解锁S/L/E权限方法
 `killall Finder`  
  
 `kextstat | grep -v "com.apple" | awk '{print $6,$7}' | column -t`
+
+
+
+
+OC用的是ACPI定制USB端口方法，方便大家换机型，，，以后稳定了可以用Hackintool.app定制
+否则，每次换机型，得重新定制或者修改USB port的plist文件
