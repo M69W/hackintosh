@@ -48,4 +48,9 @@ macos10.15解锁S/L/E权限方法
 
 
 OC用的是ACPI定制USB端口方法，方便大家换机型，，，以后稳定了可以用Hackintool.app定制
-否则，每次换机型，得重新定制或者修改USB port的plist文件
+否则，每次换机型，得重新定制或者修改USB port的plist文件  
+
+
+USB 供电不足，例子
+https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/intel-config.plist/coffee-lake  
+https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/AcpiSamples/SSDT-EC-USBX.dsl
