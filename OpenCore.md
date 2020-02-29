@@ -61,3 +61,7 @@ AppleUiSupport 为了提供更好的 FileVault 体验, 已合并入 OpenCore 并
 ApfsDriverLoader 计划在未来合并苹果最新的 APFS 驱动源码并支持 Fusion Drive, 有可能并入 OpenCore  
 从 2019 年 9 月以后, Acidanthera 开发的内核驱动 (Lilu, AppleALC 等等) 不再会在 Clover 上做兼容性测试  
 
+
+
+http://bbs.pcbeta.com/forum.php?mod=redirect&goto=findpost&ptid=1845901&pid=50081634  
+`nvram 4d1fda02-38c7-4a6a-9cc6-4bcca8b30102:opencore-version | awk {'print $2'} | awk -F- {'print $2'}`
