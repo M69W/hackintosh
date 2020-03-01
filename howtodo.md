@@ -54,3 +54,8 @@ OC用的是ACPI定制USB端口方法，方便大家换机型，，，以后稳�
 USB 供电不足，例子
 https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/intel-config.plist/coffee-lake  
 https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/AcpiSamples/SSDT-EC-USBX.dsl
+
+@哞  
+TRIM NVME SSD原生支持 啥也不用改就支持  SATA 的 SSD Config 开 ThirdPartDrivers 或者  sudo nvram EnableTRIM=01  
+命令关SIP 命令开TRIM 没 原生nvram 全不好使  
+TRIM支持：	是  
