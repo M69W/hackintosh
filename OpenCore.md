@@ -3,6 +3,8 @@ MOD：https://github.com/n-d-k/OpenCorePkg
 
 ## 教程  
 
+https://blog.cloudops.ml/ocbook/  
+
 精解OpenCore
 https://blog.daliansky.net/OpenCore-BootLoader.html  
 
