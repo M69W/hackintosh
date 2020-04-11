@@ -32,8 +32,15 @@ https://github.com/acidanthera/Lilu/releases
 ## WhateverGreen 
 https://github.com/acidanthera/WhateverGreen/releases   
 
-## VoodooInput(作用：OC在Voodoops2Controller2.1.0后在恢复模式下不能用触摸板)
+## VoodooInput
 https://github.com/kprinssu/VoodooInput/releases  
+
+
+## VoodooPS2
+https://github.com/acidanthera/VoodooPS2   
+
+## VoodooI2C
+https://github.com/alexandred/VoodooI2C  
 
 ## FakeSMC  
 https://github.com/RehabMan/OS-X-FakeSMC-kozlek  
