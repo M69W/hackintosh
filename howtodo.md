@@ -59,3 +59,7 @@ https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/AcpiSamples/SSDT-EC-
 TRIM NVME SSD原生支持 啥也不用改就支持  SATA 的 SSD Config 开 ThirdPartDrivers 或者  sudo nvram EnableTRIM=01  
 命令关SIP 命令开TRIM 没 原生nvram 全不好使  
 TRIM支持：	是  
+
+
+黑苹果Applealc声卡驱动定制（笔记本alc662为例）  
+https://www.fangf.cc/2020/03/02/applealc/  
