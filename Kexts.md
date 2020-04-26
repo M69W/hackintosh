@@ -20,6 +20,7 @@ https://github.com/Dids/clover-builder/releases
 
 ## kexts List
 https://github.com/acidanthera/Lilu/blob/master/KnownPlugins.md  
+https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Kexts.md  
 https://github.com/the-darkvoid/XPS9360-macOS/blob/master/kexts/kexts.txt
 
 
