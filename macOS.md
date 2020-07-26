@@ -45,7 +45,7 @@ http://www.haaker.cn/system/8268.html
 #### macOS Catalina
 
 `sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/macOS\ Catalina --applicationpath /Applications/Install\ macOS\ Catalina.app  --nointeraction`
-
+`Install media now available at "/Volumes/Install macOS Catalina"` 表示制作成功。  
 
 制作工具：[etcher](https://www.balena.io/etcher/)  
 Etcher broken on macOS Catalina  
