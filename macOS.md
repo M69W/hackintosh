@@ -1,3 +1,14 @@
+制作原版系统文件教程：  
+其他，磁盘工具，文件，新建映像，空白映像  
+存储为：`macOS Catalina`  
+名称：`macOS Catalina`  
+大小：`8.7GB`  
+格式：`Mac OS拓展(日志式)`  
+加密：`无`  
+分区：`单个分区-GUID分区图`  
+映像格式：`读/写磁盘映像`  
+
+
 https://support.apple.com/downloads
 
 
@@ -44,7 +55,8 @@ http://www.haaker.cn/system/8268.html
 
 #### macOS Catalina
 
-`sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/macOS\ Catalina --applicationpath /Applications/Install\ macOS\ Catalina.app  --nointeraction`
+`sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/macOS\ Catalina --applicationpath /Applications/Install\ macOS\ Catalina.app  --nointeraction`  
+
 `Install media now available at "/Volumes/Install macOS Catalina"` 表示制作成功。  
 
 制作工具：[etcher](https://www.balena.io/etcher/)  
