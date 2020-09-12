@@ -1,5 +1,6 @@
 https://github.com/acidanthera/OpenCorePkg  
 MOD：https://github.com/n-d-k/OpenCorePkg
+MOD：https://gitee.com/btwise/OpenCore_NO_ACPI
 
 ## 教程  
 
