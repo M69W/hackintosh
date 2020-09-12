@@ -41,8 +41,11 @@ http://cvad-mac.narod.ru/files/Kext_Utility.app.v2.6.6.zip
 ## IOJones  
 https://github.com/acidanthera/IOJones/releases  
 
+## FingerMgmt  
+https://github.com/jnordberg/FingerMgmt/releases  
 
-
+## GenI2C  
+https://github.com/williambj1/GenI2C  
 
 ## some tools  
 http://cvad-mac.narod.ru/   (Kext Utility BootDiskUtility.exe  mCoreTest64 Kext Info Utility)
