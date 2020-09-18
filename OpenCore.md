@@ -2,7 +2,8 @@ Official: https://github.com/acidanthera/OpenCorePkg
 MOD：https://github.com/n-d-k/OpenCorePkg  
 MOD：https://gitee.com/btwise/OpenCore_NO_ACPI  
 
-https://github.com/daliansky/XiaoXinPro-13-hackintosh/wiki/OC%E5%9B%BE%E5%BD%A2%E7%95%8C%E9%9D%A2
+[设置OC图形界面](https://github.com/daliansky/XiaoXinPro-13-hackintosh/wiki/OC%E5%9B%BE%E5%BD%A2%E7%95%8C%E9%9D%A2)
+
 
 (Mod)OC:
  - UpdateSMBIOSModel：Custom
