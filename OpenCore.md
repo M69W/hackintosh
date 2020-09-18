@@ -2,12 +2,14 @@ Official: https://github.com/acidanthera/OpenCorePkg
 MOD：https://github.com/n-d-k/OpenCorePkg  
 MOD：https://gitee.com/btwise/OpenCore_NO_ACPI  
 
+https://github.com/daliansky/XiaoXinPro-13-hackintosh/wiki/OC%E5%9B%BE%E5%BD%A2%E7%95%8C%E9%9D%A2
+
 (Mod)OC:
  - UpdateSMBIOSModel：Custom
  - Kernel > CustomSMBIOSGuid
  - OC 就不会覆盖主板 OEM信息 把 SMBIOS 带进 Win了
 
-来自@qq 3106142068 大佬
+来自OC 群 @qq3106142068 大佬
 
 ## 教程  
 
