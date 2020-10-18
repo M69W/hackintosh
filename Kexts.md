@@ -2,6 +2,7 @@ https://github.com/daliansky/OC-little
 https://github.com/daliansky/P-little  
 
 https://dortania.github.io/builds/  
+https://github.com/bugprogrammer/HackinPlugins  
 
 
 ## Clover
