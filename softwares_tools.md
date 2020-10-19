@@ -32,6 +32,7 @@ https://github.com/acidanthera/MaciASL
 [iasl Windows version](https://acpica.org/sites/acpica/files/iasl-win-20180105.zip)  $$ https://acpica.org/downloads  
 [iasl Linux version](http://amdosx.kellynet.nl/iasl.zip)  
 https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/troubleshooting/troubleshooting#other-issues  
+https://github.com/ic005k/QtiASL  
 
 ## Kext Utility
 http://cvad-mac.narod.ru/index/0-4  
