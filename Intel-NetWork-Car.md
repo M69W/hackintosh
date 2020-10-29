@@ -4,6 +4,11 @@ https://github.com/OpenIntelWireless/itlwm
 https://github.com/OpenIntelWireless/itlwm/issues/146  
 `log show --last boot | grep itlwm`
 
+git clone --depth=1 https://github.com/OpenIntelWireless/itlwm.git
+cd itlwm
+git clone --depth=1 https://github.com/acidanthera/MacKernelSDK.git
+xcodebuild -scheme "AirportItlwm (all)" -configuration Debug
+
 
 ## Bluetooth  
 https://github.com/OpenIntelWireless/IntelBluetoothFirmware  
