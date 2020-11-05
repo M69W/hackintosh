@@ -1,6 +1,9 @@
 [awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)  
 [PlistEdit Pro](https://www.fatcatsoftware.com/plisteditpro/)   && for [window](https://www.icopybot.com/download.htm)
 
+## Hex Fiend 
+https://github.com/ridiculousfish/HexFiend  
+
 
 ## videoproc  
 https://www.videoproc.com/download/videoproc.dmg  
