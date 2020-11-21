@@ -23,10 +23,6 @@ DW1830（BCM943602baed）
 查看已加载驱动  
 
 
-最简单的挂载EFI分区方案
-https://download.bugprogrammer.me/2019/12/03/mountEFI.html
-
-
 由于macOS 10.15 锁住了S/L/E的修改权限，因此在修改kext前要使用终端先解锁S/L/E权限
 
 打开终端依次输入
@@ -38,4 +34,29 @@ sudo mount -uw /
 
 killall Finder
 复制代码
+
+
+
+
+最简单的挂载EFI分区方案
+https://download.bugprogrammer.me/2019/12/03/mountEFI.html
+
+```
+sudo diskutil info disk0s1 | grep 'Partition UUID'
+```
+
+```
+#!/bin/bash
+
+mountEFI=$(echo '密码' | sudo -S diskutil info yourUUID | grep 'Device Node')
+echo '密码' | sudo -S diskutil mount '/'${mountEFI#*/}
+open /Volumes/
+```
+
+```
+#!/bin/bash
+
+mountEFI=$(echo '密码' | sudo -S diskutil info yourUUID | grep 'Device Node')
+echo '密码' | sudo -S diskutil umount '/'${mountEFI#*/}
+```
 
