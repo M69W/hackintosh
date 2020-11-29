@@ -1,3 +1,5 @@
+外置键盘调节笔记本亮度：ScrLK(NmLK)调亮+、Pause(break)调暗-
+
 https://github.com/acidanthera/bugtracker/issues  
 
 https://github.com/enkeyi/NOTE/issues/28  
