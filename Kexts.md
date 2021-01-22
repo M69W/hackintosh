@@ -87,7 +87,8 @@ https://osxlatitude.com/forums/topic/1948-elan-focaltech-and-synaptics-smart-tou
 
 ## AppleALC  
 https://github.com/acidanthera/AppleALC/releases  
-https://github.com/acidanthera/AppleALC/blob/master/README_CN.md
+https://github.com/acidanthera/AppleALC/blob/master/README_CN.md  
+完整製作仿冒 LegacyHDA.kext (12/16) http://bbs.pcbeta.com/viewthread-623626-1-1.html
 
 
 ## OS-X-USB-Inject-All 
