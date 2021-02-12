@@ -46,6 +46,7 @@ https://github.com/acidanthera/VoodooPS2
 
 ## VoodooI2C
 https://github.com/VoodooI2C/VoodooI2C  
+https://app.circleci.com/pipelines/github/VoodooI2C/VoodooI2C  
 
 ## FakeSMC  
 https://github.com/RehabMan/OS-X-FakeSMC-kozlek  
