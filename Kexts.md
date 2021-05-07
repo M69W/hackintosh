@@ -42,10 +42,10 @@ https://github.com/kprinssu/VoodooInput/releases
 
 
 ## VoodooPS2
-https://github.com/acidanthera/VoodooPS2   
+https://github.com/acidanthera/VoodooPS2/releases     
 
 ## VoodooI2C
-https://github.com/VoodooI2C/VoodooI2C  
+https://github.com/VoodooI2C/VoodooI2C/releases  
 https://app.circleci.com/pipelines/github/VoodooI2C/VoodooI2C  
 
 ## FakeSMC  
