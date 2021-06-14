@@ -12,6 +12,13 @@
 https://support.apple.com/downloads
 
 
+终端运行以下命令，不要关闭；
+```
+tail -f /var/log/install.log | grep .pkg
+```
+再下载，就能看到类似 pkg后缀名 的 URL下载链接
+
+
 
 macOS Catalina  
 https://apps.apple.com/us/app/macos-catalina/id1466841314?mt=12  
