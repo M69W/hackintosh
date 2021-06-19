@@ -68,9 +68,15 @@ http://www.haaker.cn/system/8268.html
 `Install media now available at "/Volumes/Install macOS Catalina"` 表示制作成功。  
 
 ### macOS Big Sur Beta
-sudo /Applications/Install\ macOS\ Big\ Sur\ Beta.app/Contents/Resources/createinstallmedia  --volume /Volumes/macOS\ Big\ Sur\ Beta  --applicationpath /Applications/Install\ macOS\ Big\ Sur\ Beta.app --nointeraction
+`sudo /Applications/Install\ macOS\ Big\ Sur\ Beta.app/Contents/Resources/createinstallmedia  --volume /Volumes/macOS\ Big\ Sur\ Beta  --applicationpath /Applications/Install\ macOS\ Big\ Sur\ Beta.app --nointeraction`
 
-sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/macOS\ Big\ Sur --applicationpath /Applications/Install\ macOS\ Big\ Sur.app  --nointeraction
+`sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/macOS\ Big\ Sur --applicationpath /Applications/Install\ macOS\ Big\ Sur.app  --nointeraction`
+
+
+## Monterey
+`sudo /Applications/Install\ macOS\ 12\ beta.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume`
+
+
 
 制作工具：[etcher](https://www.balena.io/etcher/)  
 Etcher broken on macOS Catalina  
