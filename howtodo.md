@@ -63,3 +63,7 @@ TRIM支持：	是
 
 黑苹果Applealc声卡驱动定制（笔记本alc662为例）  
 https://www.fangf.cc/2020/03/02/applealc/  
+
+
+【Mac操作】给mac系统分区增加容量（合并分区）黑苹果、白苹果全适用  
+https://www.bilibili.com/video/BV1jy4y117kc  
