@@ -6,5 +6,8 @@ homebrew是macOS的一个包管理工具
 2、安装adb  
 `brew cask install android-platform-tools`
 
+`Error: Unknown command: cask`
+`brew install --cask android-platform-tools`
+
 3、运行adb  
 `adb devices`
