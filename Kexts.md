@@ -1,3 +1,6 @@
+kext驱动顺序，可以使用kextstat查看
+
+
 https://github.com/daliansky/OC-little  
 https://github.com/daliansky/P-little  
 
