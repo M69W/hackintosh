@@ -25,12 +25,6 @@ macOS 10.14 Mojave：https://itunes.apple.com/cn/app/macos-mojave/id1398502828?l
 macOS 10.13 High Sierra：https://itunes.apple.com/cn/app/macos-high-sierra/id1246284741?ls=1&mt=12  
 
 
-macOS Catalina  
-https://apps.apple.com/us/app/macos-catalina/id1466841314?mt=12  
-
-macOS Mojave  
-https://apps.apple.com/us/app/macos-mojave/id1398502828?mt=12  
-
 对比官方文件  
 Apple Installer Checksums  
 https://github.com/notpeter/apple-installer-checksums  
