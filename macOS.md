@@ -83,11 +83,13 @@ sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstall
 
 #### macOS Big Sur
 
-```sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/macOS\ Big\ Sur /Applications/Install\ macOS\ Big\ Sur.app --nointeraction
+```
+sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/macOS\ Big\ Sur /Applications/Install\ macOS\ Big\ Sur.app --nointeraction
 ```
 
 
 ### Monterey
+
 ```
 sudo /Applications/Install\ macOS\ 12\ beta.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume
 ```
