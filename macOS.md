@@ -56,6 +56,9 @@ http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1640907&page=1#pid44904653
 一个命令制作 OS X 原版安装U盘  
 http://www.haaker.cn/system/8268.html  
 
+## 以下制作命令
+`sudo xxx.app/createinstallmedia「空格」--volume「空格」映像「空格」xxx.app「空格」--nointeraction`
+
 #### macOS Mojave
 
 `sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallmedia --volume /Volumes/macOS\ Mojave --applicationpath /Applications/Install\ macOS\ Mojave.app --nointeraction`
@@ -68,7 +71,7 @@ http://www.haaker.cn/system/8268.html
 
 ### macOS Big Sur
 
-`sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/macOS\ Big\ Sur /Applications/Install\ macOS\ Big\ Sur.app  --nointeraction`
+`sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/macOS\ Big\ Sur /Applications/Install\ macOS\ Big\ Sur.app --nointeraction`
 
 
 ## Monterey
