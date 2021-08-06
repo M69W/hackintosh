@@ -59,8 +59,11 @@ http://www.haaker.cn/system/8268.html
 ## 以下制作命令
 ```
 sudo xxx.app/createinstallmedia「空格」--volume「空格」映像「空格」xxx.app「空格」--nointeraction
+Erasing disk: 0%... 10%... 20%... 30%... 100%
+Copying to disk: 0%... 10%... 20%... 100%
+Making disk bootable...
 表示制作成功:
-Install media now available at "/Volumes/Install macOS xxx"
+Install media now available at "/Volumes/Install macOS XXX"
 ```
 
 #### macOS Mojave
