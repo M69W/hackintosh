@@ -57,7 +57,11 @@ http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1640907&page=1#pid44904653
 http://www.haaker.cn/system/8268.html  
 
 ## 以下制作命令
-`sudo xxx.app/createinstallmedia「空格」--volume「空格」映像「空格」xxx.app「空格」--nointeraction`
+```
+sudo xxx.app/createinstallmedia「空格」--volume「空格」映像「空格」xxx.app「空格」--nointeraction
+表示制作成功:
+Install media now available at "/Volumes/Install macOS xxx"
+```
 
 #### macOS Mojave
 
@@ -65,9 +69,7 @@ http://www.haaker.cn/system/8268.html
 
 #### macOS Catalina
 
-`sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/macOS\ Catalina --applicationpath /Applications/Install\ macOS\ Catalina.app  --nointeraction`  
-
-`Install media now available at "/Volumes/Install macOS Catalina"` 表示制作成功。  
+`sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/macOS\ Catalina --applicationpath /Applications/Install\ macOS\ Catalina.app  --nointeraction`    
 
 ### macOS Big Sur
 
