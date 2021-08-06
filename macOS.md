@@ -1,12 +1,4 @@
-制作原版系统文件教程：  
-其他，磁盘工具，文件，新建映像，空白映像  
-存储为：`macOS Catalina`  
-名称：`macOS Catalina`  
-大小：`8.7GB`  
-格式：`Mac OS拓展(日志式)`  
-加密：`无`  
-分区：`单个分区-GUID分区图`  
-映像格式：`读/写磁盘映像`  
+
 
 
 https://support.apple.com/downloads
@@ -56,6 +48,16 @@ http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1640907&page=1#pid44904653
 一个命令制作 OS X 原版安装U盘  
 http://www.haaker.cn/system/8268.html  
 
+## 制作原版系统文件教程
+其他，磁盘工具，文件，新建映像，空白映像  
+存储为：`macOS Catalina`  
+名称：`macOS Catalina`  
+大小：`8.7GB`  
+格式：`Mac OS拓展(日志式)`  
+加密：`无`  
+分区：`单个分区-GUID分区图`  
+映像格式：`读/写磁盘映像`  
+
 ## 以下制作命令
 ```
 sudo xxx.app/createinstallmedia「空格」--volume「空格」映像「空格」xxx.app「空格」--nointeraction
@@ -74,7 +76,7 @@ Install media now available at "/Volumes/Install macOS XXX"
 
 `sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/macOS\ Catalina --applicationpath /Applications/Install\ macOS\ Catalina.app  --nointeraction`    
 
-### macOS Big Sur
+#### macOS Big Sur
 
 `sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/macOS\ Big\ Sur /Applications/Install\ macOS\ Big\ Sur.app --nointeraction`
 
@@ -82,7 +84,7 @@ Install media now available at "/Volumes/Install macOS XXX"
 ## Monterey
 `sudo /Applications/Install\ macOS\ 12\ beta.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume`
 
-
+以上制作格式为 `.dmg` 文件后，使用 `etcher` 写入U盘
 
 制作工具：[etcher](https://www.balena.io/etcher/)  
 Etcher broken on macOS Catalina  
