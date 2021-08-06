@@ -61,6 +61,7 @@ http://www.haaker.cn/system/8268.html
 ## 以下制作命令
 ```
 sudo xxx.app/createinstallmedia「空格」--volume「空格」映像「空格」xxx.app「空格」--nointeraction
+
 Erasing disk: 0%... 10%... 20%... 30%... 100%
 Copying to disk: 0%... 10%... 20%... 100%
 Making disk bootable...
@@ -70,19 +71,26 @@ Install media now available at "/Volumes/Install macOS XXX"
 
 #### macOS Mojave
 
-`sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallmedia --volume /Volumes/macOS\ Mojave --applicationpath /Applications/Install\ macOS\ Mojave.app --nointeraction`
+```
+sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallmedia --volume /Volumes/macOS\ Mojave --applicationpath /Applications/Install\ macOS\ Mojave.app --nointeraction
+```
 
 #### macOS Catalina
 
-`sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/macOS\ Catalina --applicationpath /Applications/Install\ macOS\ Catalina.app  --nointeraction`    
+```
+sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/macOS\ Catalina --applicationpath /Applications/Install\ macOS\ Catalina.app  --nointeraction
+```
 
 #### macOS Big Sur
 
-`sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/macOS\ Big\ Sur /Applications/Install\ macOS\ Big\ Sur.app --nointeraction`
+```sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/macOS\ Big\ Sur /Applications/Install\ macOS\ Big\ Sur.app --nointeraction
+```
 
 
-## Monterey
-`sudo /Applications/Install\ macOS\ 12\ beta.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume`
+### Monterey
+```
+sudo /Applications/Install\ macOS\ 12\ beta.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume
+```
 
 以上制作格式为 `.dmg` 文件后，使用 `etcher` 写入U盘
 
