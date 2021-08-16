@@ -1,3 +1,6 @@
+https://www.v2ex.com/t/796016  
+黑苹果无法播放 apple music 音乐  
+
 国光的macOS配置优化记录  
 https://www.sqlsec.com/2019/12/macos.html
 
