@@ -41,9 +41,9 @@ https://github.com/acidanthera/Lilu/releases
 https://github.com/acidanthera/WhateverGreen/releases   
 
 
-## RealtekCardReader 
-https://github.com/0xFireWolf/RealtekCardReader 
-https://github.com/0xFireWolf/RealtekCardReaderFriend/  
+## RealtekCardReader  
+https://github.com/0xFireWolf/RealtekCardReader  
+https://github.com/0xFireWolf/RealtekCardReaderFriend/   
 
 
 ## VoodooInput
