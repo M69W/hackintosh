@@ -55,6 +55,12 @@ https://github.com/acidanthera/VoodooPS2/releases
 
 ## VoodooI2C
 https://github.com/VoodooI2C/VoodooI2C/releases  
+上面某个commit ☑️，点击☑️，选中 Details，
+例如跳转到下面
+https://github.com/VoodooI2C/VoodooI2C/runs/3940123633
+在进入
+build - Success
+
 https://app.circleci.com/pipelines/github/VoodooI2C/VoodooI2C  
 
 ## FakeSMC  
