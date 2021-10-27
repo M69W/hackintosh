@@ -91,7 +91,7 @@ sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstall
 ### Monterey
 
 ```
-sudo /Applications/Install\ macOS\ 12\ beta.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume
+sudo /Applications/Install\ macOS\ Monterey.app/Contents/Resources/createinstallmedia --volume /Volumes/Monterey /Applications/Install\ macOS\ Monterey.app --nointeraction
 ```
 
 以上制作格式为 `.dmg` 文件后，使用 `etcher` 写入U盘
