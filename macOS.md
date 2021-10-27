@@ -10,7 +10,7 @@ tail -f /var/log/install.log | grep .pkg
 ```
 再下载，就能看到类似 pkg后缀名 的 URL下载链接
 
-
+macOS 12 Monterey https://itunes.apple.com/cn/app/macos-monterey/id1576738294?mt=12
 macOS 11 Big Sur：https://itunes.apple.com/cn/app/macos-big-sur/id1526878132?ls=1&mt=12  
 macOS 10.15 Catalina：https://itunes.apple.com/cn/app/macos-catalina/id1466841314?ls=1&mt=12  
 macOS 10.14 Mojave：https://itunes.apple.com/cn/app/macos-mojave/id1398502828?ls=1&mt=12  
