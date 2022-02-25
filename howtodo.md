@@ -1,3 +1,6 @@
+https://github.com/btwise/TOOLS/blob/master/AppleALC/%E5%AE%9A%E5%88%B6AppleALC.md  
+定制AppleALC.md
+
 https://www.v2ex.com/t/796016  
 黑苹果无法播放 apple music 音乐  
 
