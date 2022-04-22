@@ -54,3 +54,7 @@ https://github.com/williambj1/GenI2C
 ## some tools  
 http://cvad-mac.narod.ru/   (Kext Utility BootDiskUtility.exe  mCoreTest64 Kext Info Utility)
 
+
+## macOS 下解压 非加密的 .pkg 
+https://github.com/timdoug/unpkg
+https://www.timdoug.com/unpkg/
