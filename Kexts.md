@@ -11,6 +11,8 @@ https://github.com/bugprogrammer/HackinPlugins
 ## Clover
 
 stable release  
+https://github.com/CloverHackyColor/CloverBootloader/releases
+
 https://sourceforge.net/projects/cloverefiboot/files/Installer/  
 
 Download Clover Configurator  
