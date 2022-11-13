@@ -1,6 +1,8 @@
 [awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)  
 [PlistEdit Pro](https://www.fatcatsoftware.com/plisteditpro/)   && for [window](https://www.icopybot.com/download.htm)
 
+https://github.com/lra/mackup
+
 ## Hex Fiend 
 https://github.com/ridiculousfish/HexFiend  
 
