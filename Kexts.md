@@ -63,6 +63,9 @@ https://github.com/VoodooI2C/VoodooI2C/runs/3940123633
 在进入
 build - Success
 
+# ECEnabler
+https://github.com/1Revenger1/ECEnabler/releases 
+
 https://app.circleci.com/pipelines/github/VoodooI2C/VoodooI2C  
 
 ## FakeSMC  
