@@ -69,6 +69,12 @@ Making disk bootable...
 Install media now available at "/Volumes/Install macOS XXX"
 ```
 
+#### macOS Sequoia
+```
+sudo /Applications/Install\ macOS\ Sequoia.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume
+```
+
+
 #### macOS Mojave
 
 ```
