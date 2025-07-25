@@ -196,7 +196,7 @@ https://osxlatitude.com/forums/topic/11540-dw1820a-for-7490-help/page/10/?tab=co
 
 
 https://github.com/acidanthera/OpenCorePkg
-找到 并打开 Actions（https://github.com/acidanthera/OpenCorePkg/actions）
+找到 并打开 Actions（ https://github.com/acidanthera/OpenCorePkg/actions ）
 有一个commit 列表，点进入某一个 commit
 拉到页面的底部找到 Artifacts，
 有提供各个系统编译的编译的文件如 macOS XCODE5 Artifacts，其他系统平台也是可以的
