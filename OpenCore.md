@@ -5,7 +5,10 @@ MOD：https://gitee.com/btwise/OpenCore_NO_ACPI
 主题/efi驱动：https://github.com/acidanthera/OcBinaryData  
 远景帖子：http://bbs.pcbeta.com/viewthread-1838814-1-1.html  
 
-编辑器
+编辑器  
+https://mackie100projects.altervista.org/
+https://mackie100projects.altervista.org/download-clover-configurator/
+https://mackie100projects.altervista.org/download-opencore-configurator/
 https://apple.sqlsec.com/3-%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C/3-6/  
 https://github.com/corpnewt/ProperTree  
 https://github.com/ic005k/OCAuxiliaryTools  
