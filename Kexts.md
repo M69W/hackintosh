@@ -122,6 +122,7 @@ https://github.com/acidanthera/IntelMausi/releases
 
 ## Android USB tethering driver for Mac OS X  
 
+https://github.com/iKeramat/HoRNDIS/releases
 https://github.com/jwise/HoRNDIS/releases      
 https://www.joshuawise.com/horndis  offical website
 how to use  
