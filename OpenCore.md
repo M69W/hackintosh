@@ -6,9 +6,9 @@ MOD：https://gitee.com/btwise/OpenCore_NO_ACPI
 远景帖子：http://bbs.pcbeta.com/viewthread-1838814-1-1.html  
 
 编辑器
-https://apple.sqlsec.com/3-%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C/3-6/ 
-https://github.com/corpnewt/ProperTree 
-https://github.com/ic005k/OCAuxiliaryTools
+https://apple.sqlsec.com/3-%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C/3-6/  
+https://github.com/corpnewt/ProperTree  
+https://github.com/ic005k/OCAuxiliaryTools  
 
 [设置OC图形界面](https://github.com/daliansky/XiaoXinPro-13-hackintosh/wiki/OC%E5%9B%BE%E5%BD%A2%E7%95%8C%E9%9D%A2)  
 [OC theme](https://github.com/blackosx/OpenCanopyIcons)   
