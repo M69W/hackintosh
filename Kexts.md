@@ -97,6 +97,9 @@ https://github.com/acidanthera/HibernationFixup/releases
 ## AirportBrcmFixup  
 https://github.com/acidanthera/AirportBrcmFixup/releases  
 
+## Apple Broadcom Wi-Fi Companion
+https://github.com/0xFireWolf/AppleBCMWLANCompanion
+
 ## BT4LEContiunityFixup   
 https://github.com/acidanthera/BT4LEContiunityFixup/releases  
 
