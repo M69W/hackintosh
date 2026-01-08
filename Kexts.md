@@ -1,3 +1,5 @@
+https://github.com/ic005k/OCAuxiliaryTools/blob/master/Database/preset/KextUrl.txt
+
 kext驱动顺序，可以使用kextstat查看
 
 
